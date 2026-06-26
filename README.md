@@ -13,3 +13,5 @@ no selling server making services for many (although it is normal), inorder to p
 3.FOLLOW THE GUIDELINES 
 
 4.Follow permitted online-play rules (even if it's just a link to the guidelines)
+
+5.No exploits NOR hacks
