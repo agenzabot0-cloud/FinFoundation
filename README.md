@@ -22,3 +22,7 @@ Reporting and non-retaliation. If you see a violation, report it to the moderati
 Enforcement and consequences. Moderators may take actions including warnings, temporary mutes, temporary bans, or permanent bans depending on the severity and frequency of violations. Serious or repeated offenses will result in stronger penalties.
 
 Appeals. If you believe a moderation action was unjust, you may submit an appeal within seven days. Include a clear explanation and any relevant context; moderators will review appeals and respond as promptly as possible.
+
+--
+
+We are completely a Non-Profit and can produce these things thanks to - Scratch, turbowarp, TurboCode, and Github.
